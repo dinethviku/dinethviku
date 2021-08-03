@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinethviku&label=Profile%20views&color=0e75b6&style=flat" alt="dinethviku" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dineth_vikum" target="blank"><img src="https://img.shields.io/twitter/follow/dineth_vikum?logo=twitter&style=for-the-badge" alt="dineth_vikum" /></a> </p>
-
 - 🔭 I’m currently working on **a e-commerce full stack project**
 
 - 📫 How to reach me **dinethviku@outlook.com**
