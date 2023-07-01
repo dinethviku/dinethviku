@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinethviku&label=Profile%20views&color=0e75b6&style=flat" alt="dinethviku" /> </p>
 
-- 🔭 I’m currently working on **a e-commerce full stack project**
-
 - 📫 How to reach me **dinethviku@outlook.com**
 
 
@@ -17,6 +15,7 @@
 </p>
 <h3 align="left">My Achivement:</h3>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3572a41b-cd20-4d26-b9a0-6d44224be8ef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 [![@dinethviku's Holopin board](https://holopin.me/dinethviku)](https://holopin.io/@dinethviku)
 
 <h3 align="left">Languages and Tools:</h3>
